@@ -1,14 +1,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/odemur/)
 
-### About me
+### About
 
-A passionate and enthusiastic developer. 
+A passionate and enthusiastic software developer. 
 
 I believe in solutions of real world problems through software.
 
 I like to learn, share and improve my skills, to continue growing in my career.
 
-### About my Job
+From 🇧🇷
+
+### Work
 
 I create solutions for web apps through my technical knowledge in Java and experience as a software developer. #SoftwareEngineering
 
