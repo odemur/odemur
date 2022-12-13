@@ -21,11 +21,6 @@ Experience in all areas of software development, focusing on quality, performanc
 
 Testing takes precedence, as does readable code, making software easy to understand, scale, and maintain.
 
-<!--
-Web developer with experience in software engineering.
-Specialized in Java, Spring, PHP, HTML 5, CSS 3, JavaScript, jQuery, AJAX, Microsoft SQL Server, PostgreSQL, MySQL, MongoDB, Redis, JSON, MVC, REST API, RESTful, Git, TDD, Scrum, Extreme Programming, Kanban, DevOps, Kubernetes, Heroku, Docker and AWS.
--->
-
 <div style="display: inline">
   <img align="center" alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=64&color=feffff">&nbsp;
   <img align="center" alt="Git" src="https://icongr.am/devicon/git-plain-wordmark.svg?size=96&color=feffff">&nbsp;
@@ -37,6 +32,9 @@ Specialized in Java, Spring, PHP, HTML 5, CSS 3, JavaScript, jQuery, AJAX, Micro
   <img align="center" alt="Docker" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=64&color=feffff">&nbsp;
   <img align="center" alt="Amazon Web Services" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=64&color=feffff">
 </div>
+
+<br />
+Specialized in Java, Spring, PHP, HTML 5, CSS 3, JavaScript, jQuery, AJAX, Microsoft SQL Server, PostgreSQL, MySQL, MongoDB, Redis, JSON, MVC, REST API, RESTful, Git, TDD, Scrum, Extreme Programming, Kanban, DevOps, Kubernetes, Heroku, Docker and AWS.
 
 ## Stats and technologies
 
