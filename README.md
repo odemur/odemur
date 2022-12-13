@@ -30,7 +30,6 @@ Testing takes precedence, as does readable code, making software easy to underst
   <img align="center" alt="PostgreSQL" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=64&color=feffff"> &nbsp;
   <img align="center" alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=96&color=feffff">&nbsp;
   <img align="center" alt="Docker" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=64&color=feffff">&nbsp;
-  <img align="center" alt="Amazon Web Services" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=64&color=feffff">
 </div>
 
 <br />
