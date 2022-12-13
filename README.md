@@ -1,23 +1,30 @@
 # About me
 
-I'm Odemur Marangoni 👋
+I'm Odemur Marangoni 👋 🇧🇷
 
-A passionate and enthusiastic software developer from 🇧🇷 
+A passionate software developer for the Java ecosystem, Spring, REST APIs and Security.  
 
-I believe in solutions of real world problems through software.
+I believe in solutions of real world problems through software. 
 
-<!--I like to learn, share and improve my skills, to continue growing in my career.-->
+Focused on work and constant learning. I like to share knowledge and improve skills, to grow in my career.
 
+<div style="display: inline">
 <a href="https://www.instagram.com/odemur.marangoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/odemur" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## Knowledge and skills #SoftwareEngineering
 
 I make solutions for web apps, through my technical knowledge in Java and experience as a software developer. 
 
+Experience in all areas of software development, focusing on quality, performance, scalability and security.
+
 Testing takes precedence, as does readable code, making software easy to understand, scale, and maintain.
 
-<!--I work in all areas of the development cycle, focusing on quality, performance, scalability, and security.-->
+<!--
+Web developer with experience in software engineering.
+Specialized in Java, Spring, PHP, HTML 5, CSS 3, JavaScript, jQuery, AJAX, Microsoft SQL Server, PostgreSQL, MySQL, MongoDB, Redis, JSON, MVC, REST API, RESTful, Git, TDD, Scrum, Extreme Programming, Kanban, DevOps, Kubernetes, Heroku, Docker and AWS.
+-->
 
 <div style="display: inline">
   <img align="center" alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=64&color=feffff">&nbsp;
