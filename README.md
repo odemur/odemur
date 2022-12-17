@@ -37,8 +37,8 @@ Specialized in Java, Spring, PHP, HTML 5, CSS 3, JavaScript, jQuery, AJAX, Micro
 
 ## Stats and technologies
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odemur&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odemur&layout=compact&theme=github_dark)](https://github.com/odemur/github-readme-stats)
+![Odemur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=odemur&show_icons=true&theme=github_dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odemur&hide=Procfile&layout=compact&theme=github_dark)](https://github.com/odemur/github-readme-stats)
 
 <br />
 
