@@ -6,7 +6,7 @@ Software developer since 1999, developing products for large companies, banks an
 
 Problem solver and focused on teams and performance.
 
-Graduating in Software Engineering, passionate about technology, challenges and lifelong learning. 
+Passionate about technology, challenges and lifelong learning. 
 
 I believe in solutions of real world problems through software. 
 
@@ -20,7 +20,7 @@ I believe in solutions of real world problems through software.
 Making solutions for web apps, focusing on quality, performance, scalability and security.
 
 <br />
-Java, Spring Framewrok, PHP, JavaScript, TypeScript, HTML 5, CSS 3, jQuery, PostgreSQL, MySQL, JSON, MVC, REST API, RESTful, Git, TDD, Scrum, Extreme Programming, Kanban, DevOps, Docker and AWS.
+Java, PHP, JavaScript, TypeScript, React.js, Node.js, HTML, CSS, jQuery, PostgreSQL, MySQL, JSON, MVC, REST API, RESTful, Git, TDD, Scrum, Extreme Programming, Kanban, DevOps, Docker and AWS.
 
 ## Stats and technologies
 
