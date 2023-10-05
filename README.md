@@ -17,8 +17,7 @@ I believe in solutions of real world problems through software.
 
 ## Knowledge and skills #SoftwareEngineering
 
-I make solutions for web apps, through my technical knowledge and experience as a software developer. 
-Focusing on quality, performance, scalability and security.
+Making solutions for web apps, focusing on quality, performance, scalability and security.
 
 <br />
 Java, Spring Framewrok, PHP, JavaScript, TypeScript, HTML 5, CSS 3, jQuery, PostgreSQL, MySQL, JSON, MVC, REST API, RESTful, Git, TDD, Scrum, Extreme Programming, Kanban, DevOps, Docker and AWS.
