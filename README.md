@@ -1,8 +1,8 @@
-# About me
+# About
 
-I'm Odemur Marangoni 👋 🇧🇷
+I'm Odemur Marangoni 🇧🇷
 
-Software developer since 1999, developing products for large companies, banks and non-profit organizations.
+Software Developer since 1999, developing products for large companies, banks and non-profit organizations.
 
 Problem solver and focused on teams and performance.
 
