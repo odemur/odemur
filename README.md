@@ -1,4 +1,4 @@
-# Code your life ⚡
+## Code your life ⚡
 
 Driven by challenges and dedicated to devising creative solutions, combining technical knowledge with the art of coding.
 
@@ -8,7 +8,7 @@ Specialist in developing RESTful APIs in Node.js with a high level of security a
 
 This way, we can create products that become valuable assets for your company, aligned with the culture of innovation, without losing focus on expansion and market leadership.
 
-## Code is poetry.
+## Code is poetry
 
 <!-- 
 Software Developer since 1999, developing products for large companies, banks and non-profit organizations.
@@ -30,6 +30,8 @@ Software developer focused on scalability, quality, performance and security.
 -->
 
 JavaScript, TypeScript, React, Node.js, HTML, CSS, jQuery, RESTful APIs, Git, TDD, Docker, DevOps and AWS.
+
+<br />
 
 ![Odemur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=odemur&show_icons=true&theme=github_dark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odemur&hide=Procfile&layout=compact&theme=github_dark)](https://github.com/odemur/github-readme-stats)
