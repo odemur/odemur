@@ -34,6 +34,6 @@ JavaScript, TypeScript, React, Node.js, HTML, CSS, jQuery, RESTful APIs, Git, TD
 <br />
 
 ![Odemur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=odemur&show_icons=true&theme=github_dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odemur&hide=Procfile&layout=compact&theme=github_dark)](https://github.com/odemur/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odemur&hide=Procfile&layout=compact&theme=github_dark)
 
 
