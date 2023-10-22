@@ -8,8 +8,6 @@ Specialist in developing RESTful APIs in Node.js with a high level of security a
 
 This way, we can create products that become valuable assets for your company, aligned with the culture of innovation, without losing focus on expansion and market leadership.
 
-## Code is poetry
-
 <!-- 
 Software Developer since 1999, developing products for large companies, banks and non-profit organizations.
 Problem solver and focused on teams and high performance.
