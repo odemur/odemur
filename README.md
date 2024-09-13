@@ -30,8 +30,3 @@ Software developer focused on scalability, quality, performance and security.
 JavaScript, TypeScript, React, Node.js, HTML, CSS, jQuery, RESTful APIs, Git, TDD, Clean Code, Docker, DevOps and AWS.
 
 <br />
-
-![Odemur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=odemur&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odemur&hide=Procfile&layout=compact&theme=github_dark)
-
-
