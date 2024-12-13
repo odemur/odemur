@@ -2,7 +2,7 @@
 
 Driven by challenges and dedicated to devising creative solutions, combining technical knowledge with the art of coding.
 
-My commitment, as a Senior Software Developer, is to improve people's lives, collaborate with the team and promote your brand by delivering value, through frontend technologies such as JavaScript, TypeScript and React.
+My commitment, as a Senior Software Developer, is to improve people's lives, collaborate with the team and promote your brand by delivering value, through frontend technologies such as TypeScript, JavaScript, and React.
 
 Specialist in developing RESTful APIs in Node.js with a high level of security and performance.
 
